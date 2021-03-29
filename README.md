@@ -6,11 +6,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/rx1310)
 
 ### Tools
-![](https://img.shields.io/badge/device-redmi%20note%209s-fe6709?logo=xiaomi)
-![](https://img.shields.io/badge/android-10%20(Q)-3bda8d?logo=android)
-![](https://img.shields.io/badge/notebook-msi%20ge70-fe0d00)
-![](https://img.shields.io/badge/desktop-ubuntu%2020.04%20LTS-dd4814?logo=ubuntu)
-![](https://img.shields.io/badge/editor-vscode-24a4eb?logo=visual-studio-code) 
+![](https://img.shields.io/badge/device-redmi%20note%209s-fe6709?style=flat-square?logo=xiaomi)
+![](https://img.shields.io/badge/android-10%20(Q)-3bda8d?style=flat-square?logo=android)
+![](https://img.shields.io/badge/notebook-msi%20ge70-fe0d00?style=flat-square)
+![](https://img.shields.io/badge/desktop-ubuntu%2020.04%20LTS-dd4814?style=flat-square?logo=ubuntu)
+![](https://img.shields.io/badge/editor-vscode-24a4eb?style=flat-square?logo=visual-studio-code) 
 
 ### Social
 [![](https://img.shields.io/badge/telegram-channel-26A5E4?style=flat-square&logo=telegram)](https://t.me/rx1310_dev)
@@ -20,3 +20,6 @@
 ![](https://img.shields.io/badge/instagram-%40rx1310-E4405F?style=flat-square&logo=instagram&logoColor=ffffff)
 [![](https://img.shields.io/badge/gmail-rx1310-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto://rx1310.private@gmail.com)
 
+---
+
+![](https://img.shields.io/badge/lang-ru-ffffff?style=flat-square)
