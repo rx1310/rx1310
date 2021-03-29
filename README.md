@@ -8,4 +8,7 @@
 ![](https://img.shields.io/badge/android-10%20(Q)-3bda8d?logo=android)
 ![](https://img.shields.io/badge/notebook-msi%20ge70-fe0d00)
 ![](https://img.shields.io/badge/desktop-ubuntu%2020.04%20LTS-dd4814?logo=ubuntu)
-![](https://img.shields.io/badge/editor-vscode-blue?logo=visual-studio-code) 
+![](https://img.shields.io/badge/editor-vscode-24a4eb?logo=visual-studio-code) 
+
+[![](https://img.shields.io/badge/telegram-%40rx1310-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/rx1310_dev)
+[![](https://img.shields.io/badge/vk-%40rx1310-4680C2?style=for-the-badge&logo=vk)](https://vk.com/rx1310_dev)
