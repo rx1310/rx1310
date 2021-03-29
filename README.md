@@ -10,5 +10,10 @@
 ![](https://img.shields.io/badge/desktop-ubuntu%2020.04%20LTS-dd4814?logo=ubuntu)
 ![](https://img.shields.io/badge/editor-vscode-24a4eb?logo=visual-studio-code) 
 
-[![](https://img.shields.io/badge/telegram-%40rx1310-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/rx1310_dev)
-[![](https://img.shields.io/badge/vk-%40rx1310-4680C2?style=for-the-badge&logo=vk)](https://vk.com/rx1310_dev)
+[![](https://img.shields.io/badge/telegram-%40rx1310__dev-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/rx1310_dev)
+[![](https://img.shields.io/badge/vk-%40rx1310__dev-4680C2?style=for-the-badge&logo=vk&logoColor=ffffff)](https://vk.com/rx1310_dev)
+[![](https://img.shields.io/badge/twitter-%40rx1310__dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/rx1310_dev)
+[![](https://img.shields.io/badge/figma-%40rx1310-F24E1E?style=for-the-badge&logo=figma&logoColor=ffffff)](https://figma.com/@rx1310)
+
+![](https://img.shields.io/badge/instagram-%40rx1310-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff)
+[![](https://img.shields.io/badge/gmail-%40rx1310-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto://rx1310.private@gmail.com)
