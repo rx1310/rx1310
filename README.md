@@ -18,7 +18,7 @@
 
 [![](https://img.shields.io/badge/telegram-channel-26A5E4?style=flat-square&logo=telegram)](https://t.me/rx1310_dev)
 [![](https://img.shields.io/badge/vk-public-4680C2?style=flat-square&logo=vk&logoColor=ffffff)](https://vk.com/rx1310_dev)
-[![](https://img.shields.io/badge/twitter-rx1310__dev-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/rx1310_dev)
+[![](https://img.shields.io/badge/twitter-rx1310-1DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/rx1310)
 [![](https://img.shields.io/badge/figma-%40rx1310-F24E1E?style=flat-square&logo=figma&logoColor=ffffff)](https://figma.com/@rx1310)
 ![](https://img.shields.io/badge/instagram-%40rx1310-E4405F?style=flat-square&logo=instagram&logoColor=ffffff)
 [![](https://img.shields.io/badge/gmail-rx1310-EA4335?style=flat-square&logo=gmail&logoColor=ffffff)](mailto://rx1310.private@gmail.com)
