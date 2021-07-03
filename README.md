@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/device-redmi%20note%209s-fe6709?logo=xiaomi)
 ![](https://img.shields.io/badge/android-10%20(Q)-3bda8d?logo=android)
 ![](https://img.shields.io/badge/notebook-msi%20ge70-fe0d00)
-![](https://img.shields.io/badge/desktop-ubuntu%2021.04-dd4814?logo=ubuntu)
+![](https://img.shields.io/badge/desktop-manjaro%2021.0.7%20(KDE)-35bf5c?logo=Manjaro)
 ![](https://img.shields.io/badge/editor-vscode-24a4eb?logo=visual-studio-code) 
 
 **Social**
